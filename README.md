@@ -1,2 +1,3 @@
-# Aplicacao-em-papel
-App que apresenta a aplicação de revestimento em papel
+# Aplicação em papel
+
+App que apresenta a quantidade de aplicação de revestimento em papel
